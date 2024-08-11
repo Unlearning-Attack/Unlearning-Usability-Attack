@@ -43,6 +43,6 @@ Unlearning Informative Benign Data
 --python unlearn.py  --unlearn_method AmnesiacUnlearn --test_model ResNet18 --dataset CIFAR100  --type infor --ipc 1
 ```
 
-The code for first-order and second-order methods can be found at https://github.com/alewarne/MachineUnlearning.
+The code for first-order and second-order methods is available at https://github.com/alewarne/MachineUnlearning.
 
 
